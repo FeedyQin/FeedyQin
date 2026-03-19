@@ -66,7 +66,7 @@ type Developer struct {
 
 func main() {
     me := Developer{
-        Name:        "Твоё имя",
+        Name:        "Feedy",
         Languages:   []string{"Go", "C#", "Python", "HolyC"},
         Focus:       "Backend & Systems Engineering",
         CurrentGoal: "Найти крутую команду и решать реальные задачи",
@@ -86,11 +86,11 @@ func main() {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeedyQin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FeedyQin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ВАШ_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
+![GitHub Streak](https://streak-stats.demolab.com?user=FeedyQin&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
 
 </div>
 
@@ -110,9 +110,9 @@ func main() {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ВАШ_ПРОФИЛЬ)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ВАШ_EMAIL)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ВАШ_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/feedy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgleb5930@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mayekovskiy)
 
 **📬 Открыт к новым возможностям — пишите, не стесняйтесь.**
 
@@ -124,6 +124,6 @@ func main() {
 
 *Сделано с ☕ и слишком большим количеством горутин*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ВАШ_USERNAME&color=00FF88&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=FeedyQin&color=00FF88&style=flat-square)
 
 </div>
